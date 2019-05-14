@@ -3,6 +3,8 @@ Java Lab Programs for Sem 6.
 
 **Note: All programs are executed in Eclipse and is expected to be done so.**
 
+#### Create PRs and Issues for things to be added to the README and to the repo in general
+
 ## FAQ's about programs to be run
 
 ### How to Execute Socket Program?

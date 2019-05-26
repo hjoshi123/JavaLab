@@ -3,9 +3,9 @@
     <%@ page import="java.sql.*" %>
 
  	<%
-	String driver = "com.mysql.jdbc.Driver";
+	String driver = "com.mysql.cj.jdbc.Driver";
 	String host = "jdbc:mysql://localhost:3306/test";
-	String user = "hemant";
+	String user = "root";
 	String pass = "password";
 	Connection con = null;
  	try{
